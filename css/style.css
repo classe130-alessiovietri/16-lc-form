@@ -18,3 +18,8 @@ html {
     max-width: 1000px;
     margin: 0 auto;
 }
+
+textarea {
+    width: 100%;
+    resize: vertical;
+}
